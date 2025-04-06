@@ -83,7 +83,43 @@
   },
   "overrides": {
     "cmdk": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "@react-spring/three": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "embla-carousel-react": {
       "react": "^19.1.0"
+    },
+    "input-otp": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "next-themes": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "react-day-picker": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "react-resizable-panels": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "sonner": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "recharts": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "vaul": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
     }
   }
 }
